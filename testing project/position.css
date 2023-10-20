@@ -1,0 +1,11 @@
+#box1{
+    position:relative;
+    top: 50px;
+    left: 70px;
+}
+#box2{
+    position: fixed;
+    top: 50px;
+    left: 70px;
+    z-index: 1;
+}
